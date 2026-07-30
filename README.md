@@ -1,4 +1,4 @@
-<img width="556" height="98" alt="image" src="https://github.com/user-attachments/assets/dc541341-eadd-4c43-be25-64168d3ac16f" /># PCA: EXP-1  SUM ARRAY GPU
+# PCA: EXP-1  SUM ARRAY GPU
 <h3>JADEN SAMUEL ABRAHAM</h3>
 <h3>212225040138</h3>
 <h3>EX. NO 1</h3>
@@ -255,7 +255,7 @@ int main(int argc, char **argv)
 <img width="716" height="347" alt="image" src="https://github.com/user-attachments/assets/5a7fa559-7ecb-4ef3-844c-202d74d3aeee" />
 <img width="556" height="98" alt="image" src="https://github.com/user-attachments/assets/364a29d1-7fae-41c8-816a-829c0f5e1757" />
 <img width="545" height="45" alt="image" src="https://github.com/user-attachments/assets/80eefb1e-e678-482d-8571-73eb8e7cdab3" />
-![Uploading image.png…]()
+<img width="556" height="98" alt="image" src="https://github.com/user-attachments/assets/dc541341-eadd-4c43-be25-64168d3ac16f" />
 
 
 
